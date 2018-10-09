@@ -18,7 +18,7 @@ authors = ["Roderick W. Lammers", "Brian P. Bledsoe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Review with *Journal of Hydrology*"
+publication = *Journal of Hydrology*
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/Lammers_REM Paper 2018"
+url_pdf = "pdf/Lammers_REM Paper 2018.pdf"
 url_preprint = "https://eartharxiv.org/zgekr/"
 url_code = ""
 url_dataset = ""
