@@ -1,6 +1,6 @@
 +++
 title = "A network scale, intermediate complexity model for simulating channel evolution over years to decades"
-date = 2018-06-30T00:00:00
+date = 2018-10-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
