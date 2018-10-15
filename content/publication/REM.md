@@ -18,7 +18,7 @@ authors = ["Roderick W. Lammers", "Brian P. Bledsoe"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Hydrology*""
+publication = "In *Journal of Hydrology*"
 publication_short = ""
 
 # Abstract and optional shortened version.
