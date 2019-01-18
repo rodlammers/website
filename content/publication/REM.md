@@ -56,6 +56,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "View Publication", url = ""}]
+url_custom = [{name = "View Publication", url = "https://www.sciencedirect.com/science/article/pii/S0022169418307303"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
