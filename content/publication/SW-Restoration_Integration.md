@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "View Publication", url = https://dl.sciencesocieties.org/publications/jeq/abstracts/0/0/jeq2019.02.0084?access=0&view=article}]
+url_custom = [{name = "View Publication", url = "https://dl.sciencesocieties.org/publications/jeq/abstracts/0/0/jeq2019.02.0084?access=0&view=article"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
