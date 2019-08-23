@@ -59,7 +59,7 @@ url_source = ""
 url_custom = [{name = "View Publication", url = "https://dl.sciencesocieties.org/publications/jeq/abstracts/0/0/jeq2019.02.0084?access=0&view=article"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math = true
 
 # Does this page require source code highlighting? (true/false)
 highlight = true
